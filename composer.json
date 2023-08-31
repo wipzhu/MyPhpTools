@@ -1,0 +1,18 @@
+{
+    "name": "wipzhu/my-php-tools",
+    "description": "php工具",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wipzhu\\MyPhpTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wipzhu",
+            "email": "wipzhu@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
